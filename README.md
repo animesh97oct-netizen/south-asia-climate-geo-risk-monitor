@@ -1,8 +1,8 @@
 # South Asia Climate-Geopolitical Risk Monitor
 **Animesh Banerjee | April 2026**
 
-> Companion project to the [SARCI Index](https://github.com/animesh97oct-netizen/SARCI-index) — 
-> applying the framework to a live crisis as it happened.
+> Companion project to the [SARCI Index]> **Methodology powered by the [SARCI Index](https://github.com/animesh97oct-netizen/SARCI-index)**  
+> 🔴 Live Risk Dashboard: [animesh97oct-netizen.github.io/SARCI-index](https://animesh97oct-netizen.github.io/SARCI-index)
 
 ## What This Is
 An original analytical brief tracking the collision of climate vulnerability 
